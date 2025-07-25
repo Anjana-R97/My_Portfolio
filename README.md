@@ -21,6 +21,6 @@ Let's connect: www.linkedin.com/in/anjana-rajan-765245188
 
 HR Data Analytics
 
-**Description**: A dtailed study of 
+**Description**: A detailed study of 
 
-[HR Data Analytics Dashboard](Adobe Express - file.jpg)
+[HR Data Analytics Dashboard]Adobe Express - file.jpg

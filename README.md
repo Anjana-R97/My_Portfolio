@@ -23,4 +23,4 @@ HR Data Analytics
 
 **Description**: A detailed study of 
 
-![HR Data Analytics Dashboard]Adobe Express - file.jpg
+![HR Data Analytics Dashboard](Adobe Express - file.jpg)

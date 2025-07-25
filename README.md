@@ -21,6 +21,24 @@ Let's connect: www.linkedin.com/in/anjana-rajan-765245188
 
 HR Data Analytics
 
-**Description**: A detailed study of 
+**Description**: This dashboard provides a comprehensive overview of key HR metrics to support data-driven decision-making in workforce management.
+Key insights include:
+
+👩‍💼 Employee Distribution:
+Employee counts segmented by gender, department, employment type, and age groups.
+
+⚖️ Work-Life Balance Comparison:
+Visual comparison of work-life balance scores across different departments.
+
+💰 Training Analysis:
+Breakdown of training costs by type of training to monitor investment efficiency.
+
+📈 Performance Scores Overview:
+Count and distribution of employee performance scores.
+
+📊 Summary Metrics:
+Average age, engagement score, satisfaction score, employee rating, and work-life balance score summarized for quick insights.
+
+This dashboard demonstrates my ability to transform complex HR data into actionable insights using interactive visualizations.
 
 ![HR Data Analytics Dashboard](HR.jpg)

@@ -17,8 +17,10 @@ Let's connect: www.linkedin.com/in/anjana-rajan-765245188
 
 
 ---
-**📊TABLEAU PROJECTS**
-**HR Data Analytics**
+📊TABLEAU PROJECTS
+
+HR Data Analytics
+
 **Description**: A dtailed study of 
 
 [HR Data Analytics Dashboard](dashboard-screenshot.png)

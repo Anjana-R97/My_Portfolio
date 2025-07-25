@@ -42,3 +42,9 @@ Average age, engagement score, satisfaction score, employee rating, and work-lif
 This dashboard demonstrates my ability to transform complex HR data into actionable insights using interactive visualizations.
 
 ![HR Data Analytics Dashboard](HR.jpg)
+
+
+---
+Inside the Vault: Banking Customer Behavior Dashboard
+
+An interactive Tableau dashboard built using a banking dataset to explore customer demographics, account details, and behavioral patterns. The dashboard visualizes key metrics such as customer age, gender, credit score, tenure, and product usage to uncover insights that support strategic customer segmentation and engagement decisions.
